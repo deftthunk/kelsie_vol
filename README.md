@@ -26,4 +26,17 @@ things and stuff
        if that didn't work something went wrong. tell steven it's his fault with zero explanation as to why.
 5) in a terminal (one that's been created after step 4), browse to this project's folder
 6) run the script with no arguments, and it'll check to see if everything looks ready
+   ```
+   python kvol.py
+   ```
 
+## things to try later for fun (and profit?)
+- get script to execute more than one command at a time to speed it up
+- store output of each command in its own named file, instead of just in the log
+- format output of program to be more useful for ingestion into other programs for post-processing
+- handle more volatility flags/options than just '-o' and '-f'
+- fill out more plugin arguments
+- check to see if anything is in the output folder, and if so, create a new folder named something different to organize work
+- determine with plugins are worth running all the time
+- figure out how to work with plugins like 'windows.strings.String' which require a target strings file
+- make plugin dictionaries for mac and linux
