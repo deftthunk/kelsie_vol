@@ -1,6 +1,9 @@
 # kelsie_vol
 things and stuff
 
+Probably works, probably has bugs, definitely sketchy
+
+
 ## instructions
 1) clone repo (or download zip) and copy to local machine or VM
 2) enter project folder
